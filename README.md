@@ -1,2 +1,2 @@
 # text_summarization-llm-
-Here is the overview of project ,this project describes the overall analysis of a complete whats app chat group text and analyze the peak times of chat and emoji count etc.
+Here is the entire description of text summarization of above project.here is the time saviour,which make you to summarize the entire website in few seconds by using lanchaing and generative ai hope these finds useful.
